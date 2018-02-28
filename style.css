@@ -1,0 +1,220 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  background-color: white;
+}
+.logo {
+  width: 75px;
+  display: inline-block;
+}
+.nav-bar-item-a {
+  width: 10%;
+  background-color: white;
+  display: inline-block;
+  margin: 15px 0px 0px 15px;
+}
+.nav-bar-item-b {
+  background-color: white;
+  display: inline-block;
+  font-size: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bolder;
+  padding: 0px 10px 0px 10px;
+  margin: 0px;
+}
+
+.nav-bar-item-c {
+  margin: 32px 50px 0px 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  float: right;
+}
+
+.nav-button {
+  background-color: white;
+  text-decoration: none;
+  color: red;
+
+  padding: 0px 5px;
+}
+
+.women {
+  padding-bottom: 0.5px;
+  border-bottom: solid 3px #FF1C00;
+}
+
+.outer-container {
+  background: linear-gradient(to right, #F10070, #FF1C00);
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 50px;
+  margin-top: 40px;
+}
+
+.left-card {
+  width: 45%;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 1px;
+}
+.right-card {
+display: inline-block;
+width: 45%;
+margin: 20px 30px 30px 30px;
+}
+
+.quicksneaker {
+width: 80%;
+display: inline-block;
+box-sizing: border-box;
+margin: 50px 30px 30px 0px
+}
+
+.white-text {
+  text-decoration: none;
+  margin-left: 30px;
+  color: white;
+  display: inline-block;
+}
+
+h4 {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  line-height: 1px;
+}
+
+.spring-summer {
+  color: #A80021;
+  display: block;
+  font-weight: lighter;
+  font-size: 12px;
+  line-height: 1px;
+  margin-bottom: 60px;
+
+}
+
+  .description {
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
+    border-top: dashed 1px #A80021;
+    border-bottom: dashed 1px #A80021;
+    padding: 10px;
+  }
+
+.read-the-reviews {
+font-size: 15px;
+color: #A80021;
+text-align: right;
+display: block;
+font-weight: lighter;
+
+}
+.buy-now {
+color: #FF0040;
+border: solid 2px white;
+background-color: white;
+border-radius: 8px;
+text-transform: uppercase;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold;
+padding: 10px 20px;
+margin: 10px 20px;
+text-decoration: none;
+text-align: center;
+display: inline-block;
+width: 80px;
+
+}
+.cost {
+  display: inline-block;
+}
+
+
+.buy-now:hover {
+  color: white;
+  border: solid 2px white;
+  background-color: #FF0040;
+}
+
+
+
+.outer-container-mid {
+  padding:20px 15%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.product-info {
+  font-family: 'Source Sans Pro', sans-serif;
+  color:red;
+  border-bottom: solid 1px pink;
+}
+
+.size {
+  padding-left: 15px;
+}
+
+.reviews {
+  float: right;
+}
+.sneaker-info {
+  background-color: white;
+  color: purple;
+}
+
+.shop-rec {
+  background-color: beige;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  padding: 10px
+}
+
+.recommended-shoes {
+  background: linear-gradient(to right, #F10070, #FF1C00);
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+
+  padding: 20px 0% 20px 5%;
+}
+
+h5 {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  display: inline-block;
+}
+.shoe-images {
+  width: 100%;
+  display: inline-block;
+}
+
+.money {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding-left: 45px;
+}
+
+.card {
+  width: 25%;
+  padding: 3%;
+  display:inline-block;
+}
+
+.footer {
+  background-color: white;
+  color: gray;}
+
+  .nav-bar-item-d {
+    display: inline-block;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #AD877E;
+    font-size: 12px;
+    padding-left: 100px;
+
+  }
